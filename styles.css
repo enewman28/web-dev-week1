@@ -20,7 +20,7 @@ img {
 /* Style for tables */
 table {
     background-color: #ffffff; /* Sets table background color to white */
-    margin: 20px auto; /* Centers the table horizontally with spacing */
+    margin-left: 20px;
 }
 
 td {
