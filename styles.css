@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* General styles for the page */
+body {
+    font-family: Arial, sans-serif; /* Sets font family */
+    background-color: #f9f9f9; /* Sets background color */
+    color: #3a3a3a; /* Sets text color */
+    margin: 0; /* Removes default body margin */
+    padding: 0; /* Removes default body padding */
+}
+
+/* Style for headings */
+h1 {
+    font-size: 24px; /* Sets font size for h1 */
+    margin-bottom: 10px; /* Adds spacing below the heading */
+    text-align: center; /* Centers the heading */
+}
+
+/* Style for images */
+img {
+    width: 60px; /* Sets the width of images */
+    height: auto; /* Ensures images maintain aspect ratio */
+    display: block; /* Makes the image a block element */
+    margin: 0 auto; /* Centers the image */
+}
+
+/* Style for tables */
+table {
+    background-color: #ffffff; /* Sets table background color to white */
+    width: 100%; /* Ensures the table takes the full width */
+    margin: 20px auto; /* Centers the table horizontally with spacing */
+    text-align: center; /* Centers text within cells */
+    border-collapse: collapse; /* Removes gaps between cells */
+}
+
+th, td {
+    padding: 8px; /* Adds padding inside cells */
+    text-align: center; /* Centers text in each cell */
+    border: none; /* Removes cell borders */
+}
