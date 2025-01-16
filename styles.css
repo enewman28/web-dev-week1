@@ -21,5 +21,8 @@ img {
 table {
     background-color: #ffffff; /* Sets table background color to white */
     margin: 20px auto; /* Centers the table horizontally with spacing */
+}
+
+td {
     text-align: center; /* Centers text within cells */
 }
